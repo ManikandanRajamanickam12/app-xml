@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Your App Name</title>
-        <link>https://play.google.com/store/apps/details?id=tech.netrin.enhance</link>
-        <description>Updates for Your App Name</description>
-        <language>en-us</language>
+        <title>NE STAGING</title>
         <item>
-            <title>Version 0.3.3 is now available</title>
-            <description>Update your app to the latest version</description>
-            <pubDate>Mon, 01 Jan 2022 00:00:00 GMT</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=tech.netrin.enhance" sparkle:version="x.x.x" sparkle:shortVersionString="x.x.x" length="123456" type="application/vnd.android.package-archive" />
+            <title>Version 1.15.0</title>
+            <description>Minor updates and improvements.</description>
+            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=tech.netrin.enhance" sparkle:version="1.15.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
